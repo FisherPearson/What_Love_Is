@@ -13,7 +13,7 @@ Most of the data is comprised of text. As per numerical atributes: 5 standard li
 We cover:
 
 - Statistical Inference:
-  + Two proportion Z test
+  + One way anova
   + Kruskal-Wallis test
   + Jarque-Bera's test
   + Levene's test
